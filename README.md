@@ -8,4 +8,5 @@ The project is divided into the following steps:
 4) Feature Selection
 5) Modelling
 6) Model Selection
+
 Each section has its jupyter notebook for better understanding.
